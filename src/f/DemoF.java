@@ -8,7 +8,7 @@ public class DemoF {
 		System.out.println("QA");
 	}
 	//from respitory
-	public static void add(int c, int d);
+	public static void subtract(int c, int d);
 	System.out.println(c-d);
 }
 }
